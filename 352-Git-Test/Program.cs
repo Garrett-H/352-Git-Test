@@ -10,6 +10,8 @@ namespace _352_Git_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.Read();
         }
     }
 }
