@@ -24,6 +24,7 @@ namespace _352_Git_Test
             Console.Write("Guess the number: ");
             int guess = Convert.ToInt32(Console.ReadLine());
             //loops if incorrect
+
             while(guess != ans)
             {
                 if(guess < ans)
